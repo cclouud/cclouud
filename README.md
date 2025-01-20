@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cloud</h1>
-<h3 align="center">Turning ideas into code, one step at a time.</h3>
+<h3 align="center">So high up I'm near divine</h3>
 
-- 🌱 I’m currently learning **Cybersecurity, React, Bootstrap...**
+- 🌱 I’m currently learning **Cybersecurity, Web Stuff...**
 
 - 📫 How to reach me **alexgarciap3108@gmail.com**
 
