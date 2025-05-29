@@ -6,7 +6,8 @@
 
 - 📫 How to reach me: **alexgarciap3108@gmail.com**
 
-- My portfolio: cclouud.dev
+[Take a look at my portfolio](https://cclouud.dev)
+
   
 
 # 💻 Tech Stack:
