@@ -21,7 +21,3 @@
 ![n8n](https://img.shields.io/badge/n8n-ff6d00.svg?style=for-the-badge&logo=n8n&logoColor=white)
 
 ---
-
-# 📌 Projects I'm working on:
-- 🛍️ **Gamer dropshipping site** – with custom keycaps and future user marketplace  
-
