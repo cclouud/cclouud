@@ -11,8 +11,7 @@
 
 * 📧 **Direct:** [alexgarciap3108@gmail.com](mailto:alexgarciap3108@gmail.com)
 * 💼 **Professional:** [LinkedIn Profile](https://linkedin.com/in/alejandrogarp)
-* 💬 **Quick Chat:** Disponible para proyectos de **Automatización** y **Web Dev**.
-
+* 
 ---
 
 ### 📂 `/var/www/active-projects`
