@@ -5,11 +5,21 @@
 
 ---
 
-### 📂 /var/www/active-projects
+### 🔌 `ssh establish-connection`
+
+> **Status:** Listening for new opportunities and collaborations.
+
+* 📧 **Direct:** [alexgarciap3108@gmail.com](mailto:alexgarciap3108@gmail.com)
+* 💼 **Professional:** [LinkedIn Profile](https://linkedin.com/in/alejandrogarp)
+* 💬 **Quick Chat:** Disponible para proyectos de **Automatización** y **Web Dev**.
+
+---
+
+### 📂 `/var/www/active-projects`
 
 * **[Temotiva](https://temotiva.com)** – *Lead Frontend/Backend Architecture*. Optimizando el rendimiento y la escalabilidad de la plataforma con soluciones modernas.
 * **[cclouud.dev](https://cclouud.dev)** – *Personal Portfolio & Tech Showcase*. Mi "hub" central diseñado con **UI/UX minimalista**.
-* **[GrxDiscover](https://github.com/TU_USUARIO/GrxDiscover)** – Motor de turismo interactivo para Granada utilizando **Leaflet/OSM** y filtrado de datos en tiempo real.
+* **[GrxDiscover](https://github.com/cclouud/GrxDiscover)** – Motor de turismo interactivo para Granada utilizando **Leaflet/OSM** y filtrado de datos en tiempo real.
 
 ---
 
