@@ -11,7 +11,7 @@
 
 * 📧 **Direct:** [alexgarciap3108@gmail.com](mailto:alexgarciap3108@gmail.com)
 * 💼 **Professional:** [LinkedIn Profile](https://linkedin.com/in/alejandrogarp)
-* 
+
 ---
 
 ### 📂 `/var/www/active-projects`
