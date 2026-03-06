@@ -10,7 +10,6 @@
 * **[Temotiva](https://temotiva.com)** – *Lead Frontend/Backend Architecture*. Optimizando el rendimiento y la escalabilidad de la plataforma con soluciones modernas.
 * **[cclouud.dev](https://cclouud.dev)** – *Personal Portfolio & Tech Showcase*. Mi "hub" central diseñado con **UI/UX minimalista**.
 * **[GrxDiscover](https://github.com/TU_USUARIO/GrxDiscover)** – Motor de turismo interactivo para Granada utilizando **Leaflet/OSM** y filtrado de datos en tiempo real.
-* **[JS Chess Engine]** – Motor de ajedrez desarrollado íntegramente en **Vanilla JavaScript**, centrado en lógica algorítmica y validación de estados.
 
 ---
 
